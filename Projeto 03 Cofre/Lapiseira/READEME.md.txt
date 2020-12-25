@@ -1,0 +1,6 @@
+Bem primeiramente eu tentei fazer a atividade da Motoca Infantil no Parque sozinha porém achei muito complicado
+pois nela usa-se mais de uma classe fora a main. A grande dificuldade aqui foi a interpretação. Eu levei várias horas somente
+para montar o escopo da classe e desisti dessa atividade. Busquei ajuda com meu amigo e ele me indicou a fazer o da Lapiseira
+pois era mais parecido com o Carro e ele disse que seria muito bom eu fazer essa atividade para praticar o que aprendi no Carro. Porém continuei tendo
+muita dificuldade e pedi para que ele me ajudasse novamente. É muito mais fluído as coisas com alguém ajudando, faz parecer fácil, mas quando tento sozinha
+eu não consigo resolver muito a atividade. Levei 4 dias para fazer esse projeto.
