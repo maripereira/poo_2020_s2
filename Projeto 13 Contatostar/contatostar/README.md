@@ -1,0 +1,1 @@
+> Sendo bem sincera eu não ia conseguir entregar esses dois trabalhos sozinha pois perdi muito tempo fazendo o Bilheteria, então fiz esse trabalho junto com o Leonardo que já foi monitor. Ele me ajudou bastante e me explicou muita coisa e como desafio ele deixou eu fazer sozinha a ordenação por Id mas não consegui fazer-la. De resto está tudo funcionando.
